@@ -1,0 +1,20 @@
+{
+    "cosking": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-cos-kingdom-cosking-165842-authRole",
+            "UnauthRoleArn": "arn:aws:iam::471852738351:role/amplify-cos-kingdom-cosking-165842-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::471852738351:role/amplify-cos-kingdom-cosking-165842-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-cos-kingdom-cosking-165842-deployment",
+            "UnauthRoleName": "amplify-cos-kingdom-cosking-165842-unauthRole",
+            "StackName": "amplify-cos-kingdom-cosking-165842",
+            "StackId": "arn:aws:cloudformation:us-east-1:471852738351:stack/amplify-cos-kingdom-cosking-165842/d806eea0-52c5-11eb-aac8-0a1540e225b5",
+            "AmplifyAppId": "dk25w3o6pj7jt"
+        },
+        "categories": {
+            "auth": {
+                "coskingdomdd238761": {}
+            }
+        }
+    }
+}

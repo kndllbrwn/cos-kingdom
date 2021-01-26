@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"coskingdomdd238761": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}
